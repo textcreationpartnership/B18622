@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of South-town, (alias) Little-Yarmouth in the county of Suffolck, concerning their fishery and merchandize.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18622</idno><idno type="EEBO-CITATION">99885928</idno>
+  <idno type="VID">188532</idno>
+  <idno type="EEBO-PROQUEST">2240888674</idno>
+  
+            <idno type="STC">Wing C1005aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[29*]</idno>
+            <idno type="STC">ESTC R225200</idno>
+            <idno type="PROQUEST">ocm99885928</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885928e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188532)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of South-town, (alias) Little-Yarmouth in the county of Suffolck, concerning their fishery and merchandize.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fishery law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:188532:1"/>
+            <head>The Case of South-Town, <hi>(ALIAS) LITTLE-YARMOUTH</hi> in the County of <hi>SUFFOLCK,</hi> Concerning their Fishery and Merchandize.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a Bill preferred in Parliament; Praying that it may be declared by Act of Parliament, that the Men and Inhabitants of <hi>Little-Yarmouth,</hi> alias, <hi>South-Town</hi> for the time being; may Lade and Unlade their own Goods and Merchandize out of their own Vessels at <hi>Little-Yar<g ref="char:EOLhyphen"/>mouth,</hi> and make Sale of them there, paying the Kings Customes at <hi>Great-Yarmouth,</hi> without impediment by <hi>Great-Yarmouth.</hi>
+            </p>
+            <p>
+               <hi>Note.</hi> The Town of <hi>Little-Yarmouth</hi> consists now of about Thirty Houses, whereof di<g ref="char:EOLhyphen"/>vers are Inhabited by considerable Farmers of about a Hundred or Sevenscore pound <hi>per An<g ref="char:EOLhyphen"/>num,</hi> besides Salt-Pans; to which the Controversies with the Town of <hi>Great-Yarmouth</hi> hath re<g ref="char:EOLhyphen"/>duced that place, which heretofore was a Great Town, and had two Parish Churches, and still is part of the Port of <hi>Yarmouth,</hi> and is the only instance in all the Kings Dominions, that one part of the same Port should be so opprest by another, that they may not Fish or Trade by Sea or Land, but for the benefit of their Neighbour-Town, though they pay the Kings Customes at <hi>Great-Yarmouth.</hi>
+            </p>
+            <p>And for passing this Bill, the Town of <hi>Little-Yarmouth</hi> say; That by the Statutes of 9. <hi>E.</hi> 3.1. and 2. <hi>R.</hi> 2.1. All Mer<g ref="char:EOLhyphen"/>chants, Alians, Denizens, and others whatsoever, that will buy or sell Flesh, Fish, and other things Vendible within Fran<g ref="char:EOLhyphen"/>chise, or without, may freely without Interruption sell them; and if any shall disturb, he shall Forfeit double Dama<g ref="char:EOLhyphen"/>ges to the Party, be Imprisoned for Twelve Months, and be Fined to the King; And this shall be Observed, Performed and Kept, in every City, Burrough, Port of the Sea and other places, notwithstanding, Charters of Franchise granted to them to the Contrary, nor Usage, nor Custome, nor Judgment given thereupon that they can alledge. Which Charters, Usages and Customes, the King, Lords and Commons hold of no Force, as things Granted, or Used, to the Damage of the King and Great Men of His Realm, and to the Oppression of the Commons.</p>
+            <p>That by the Statute 11. <hi>R.</hi> 2. <hi>c.</hi> 7. the Statute 9. <hi>E.</hi> 3.1. and the Statute 25. <hi>E.</hi> 3.2. to the same effect, are Confirmed, and if any Statute, Ordinance, Charter, Letters-Pattents, Proclamation, Franchise, Commandment, Usage Allowance, or Judgment be made or used to the Contrary, it shall be utterly Repealed, Avoided and holden for none.</p>
+            <p>☞ <hi>Note.</hi> The Charter under which the Men of <hi>Great-Yarmouth,</hi> doe more especially Shelter their Oppressive Usages was made, 10. <hi>R.</hi> 2. and stands therefore Repealed and Avoided by the Subsequent Act, of 11 <hi>R.</hi> 2.7.</p>
+            <p>That the purpose of the Bill is the Enlargement of the Fishing-Trade, and Encouragement of all Merchandize, and e<g ref="char:EOLhyphen"/>specially of Fishers that come from the <hi>West-Country, Kent, Newcastle,</hi> and other Sea Towns, and Places, whose Hazzards and Industry are much discouraged by the inconveniences they find in the by-Laws of <hi>Great-Yarmouth,</hi> contrary to the fore-mentioned Statutes, and more particularly.</p>
+            <p>The Fisher cannot sell his Herring to any Man but his Host, in <hi>Great-Yarmouth,</hi> (which might not be used, but only in the case of Merchant-Strangers;) nor can he capitulate with the Host for price, but must take what the Host please to give for them, by which means the Fisher often-times sees his Herring sold before his face to forreign Buyers for almost double the rate he receives; And in case of a plentiful Fishing, the Fishers are forced to carry their Herrings to <hi>London,</hi> or other Ports at great distance, and thereby loose the rest of the season of Fishing, or throw what they have taken over-board, that they may return to catch fresh for other Ports, because the Free-men of <hi>Yarmouth</hi> will not buy them, and no body else may.</p>
+            <p>The Charters and Grants in Parliament, by which <hi>Great-Yarmouth</hi> claim these Exorbitant Priviledges of Monopoly have been very often complained of in Parliament; divers times Repealed by Acts of Parliament; As 6. <hi>E.</hi> 3.35. <hi>E.</hi> 3.50. <hi>E.</hi> 3. and 5. <hi>R.</hi> 2. never thought Just or Reasonable, as appears by the Arbitrations by the King and Council; 34. <hi>E.</hi> 1.6. <hi>E.</hi> 3. and by Order of the Queen and Council, 21. <hi>Eliz.</hi> by all which it is affirmed that those of <hi>Little-Yarmouth</hi> may Unlade and Sell their own Goods in their own Ships, at their own Town.</p>
+            <p>
+               <hi>Great-Yarmouth</hi> receives yearly towards Repair of their Peer above Three Thousand Pound, as by Peerage, Anchorage, <hi>&amp;c.</hi> and other Town-Duties, at the least to the value of Fifteen Hundred Pounds <hi>per Annum:</hi> by Profits of the <hi>Hayning-Cham<g ref="char:EOLhyphen"/>ber, Communibus Annis</hi> Fifteen Hundred pounds; by the half Doles, Three or Four Hundred pounds, out of which they say they are at One Thousand pound Charge (others believe half the Money) for preserving of the Peer; And their pro<g ref="char:EOLhyphen"/>fits of this nature, or any other justifiable gains will not be abated if the Liberty be confirmed to <hi>Little-Yarmouth,</hi> as is desired by the Bill.</p>
+            <p>The Laws for Regulating the Herring-Fishing, and the late Act concerning the well packing of Herrings, extend as well into <hi>South-Town</hi> as now they do to <hi>Great-Yarmouth,</hi> and the Fishery and Merchandize there, is by the Ordinance of Her<g ref="char:EOLhyphen"/>rings, under the Care and Government of the Wardens of the Cinque Ports; therefore there is as little Ground for fear that <hi>Little-Yarmouth</hi> will by abuses, bring the Herring-Trade into Dis-repute, as there is for hopes that the Herring-Trade will enlarge till the receptions of Fishers, and their liberty of Selling be extended beyond the Limits of <hi>Great-Yarmouth.</hi>
+            </p>
+            <p>The Port of <hi>London</hi> is the most Considerable in all <hi>England,</hi> yet Merchandize for which Customes are paid at the Cu<g ref="char:EOLhyphen"/>stome-house in <hi>London,</hi> may as lawfully be Unladen at <hi>Greenwich, Ratclift,</hi> or <hi>South-warke,</hi> as at <hi>Tower-wharff:</hi> But <hi>South-Town,</hi> is nearer to <hi>Great-Yarmouth,</hi> then <hi>South-warke</hi> to <hi>London,</hi> and is part of the Port of <hi>Yarmouth.</hi>
+            </p>
+            <p>This Bill though it receive the Particular Countenance of a very Honourable and Worthy Member, Sir <hi>Robert Paston,</hi> yet it is his Zeal to the Neighbouring Counties that Engage his Patronage, not his Private Advantage, for most of the Lands in <hi>South-Town</hi> belong to Persons of Quality their Owners, and not to Sir <hi>Robert Paston;</hi> but it is an Artifice of the Ad<g ref="char:EOLhyphen"/>versary to Reproach a Publique Good, with the Name of Private Design.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
